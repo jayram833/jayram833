@@ -2,7 +2,7 @@
 <h1 align="center"> Hello, I'm Jayram Pansare 👋 </h1>
 <h3 align="center">🚀 frontend developer 🚀</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinavdubeyad9" alt="jayrampansare" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jayram833" alt="jayrampansare" /> </p>
 
 - 🔭 I’m currently working on personal project
 - 🌱 I’m currently learning Reactjs
